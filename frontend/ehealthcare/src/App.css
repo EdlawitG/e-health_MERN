@@ -1,0 +1,24 @@
+.link-header{
+  text-decoration: none;
+  color: white;
+}
+.link-header:hover{
+  color: #183260;
+}
+.link-footer{
+  text-decoration: none;
+  color:#183260;
+  font-size: large;
+}
+.link-headeradmin{
+  text-decoration: none;
+  color: black;
+}
+.link-headeradmin:hover{
+  color: #2AA7FF;
+  border-bottom: 2px solid #2AA7FF;
+}
+.link-nav{
+  text-decoration: none;
+  color: black;
+}
